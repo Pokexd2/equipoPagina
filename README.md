@@ -1,5 +1,5 @@
 Integrantes del equipo: 
 -Juan Carlos Velazquez De La Rosa
--Jose marcos
+-Jose Marcos Moreno Licea xdxdxxd
 -Ana Camila Vega Olvera 
 -Ricardo Romo
