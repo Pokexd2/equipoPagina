@@ -1,2 +1,4 @@
 Integrantes del equipo: -Juan Carlos Velazquez De La Rosa
-Ricardo Romo
+-Ana Camila Vega Olvera 
+-Ricardo Romo
+
